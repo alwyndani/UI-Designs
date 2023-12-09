@@ -1,0 +1,146 @@
+.maindiv {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.firstdiv {
+    border: 4px solid black;
+    width: 38rem;
+    height: 17.5rem;
+    margin: auto;
+    position: relative;
+}
+
+.header {
+    background-color: whitesmoke;
+    margin: 0%;
+    font-size: 17px;
+    padding: 13px 101px;
+    width: fit-content;
+    margin: auto;
+}
+
+.secondiv {
+    display: flex;
+    gap: 18px;
+}
+
+.img {
+    height: 188px;
+    margin: 0%;
+    width: 33%;
+}
+
+.descr {
+    width: 33%;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 17px;
+}
+
+.price h1 {
+    margin: 0%;
+    font-size: x-large;
+}
+
+.price p {
+    margin: 0%;
+    margin: auto;
+}
+
+.para  {
+    font-size: 13px;
+    margin-bottom: 2%;
+    margin-top: 16px;
+}
+
+.descr a {
+    font-size: 14px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    width: 140px;
+}
+
+.box1 {
+    width: 16px;
+    height: 16px;
+    background-color: black;
+}
+
+.box2 {
+    width: 16px;
+    height: 16px;
+    background-color: blue;
+}
+
+.box3 {
+    width: 16px;
+    height: 16px;
+    background-color: red;
+}
+
+.box4 {
+    width: 16px;
+    height: 16px;
+    background-color: yellow;
+}
+
+.box5 {
+    width: 16px;
+    height: 16px;
+    background-color: lightgreen;
+}
+
+.box6 {
+    width: 16px;
+    height: 16px;
+    background-color: orange;
+}
+
+.details {
+    width: 33%;
+}
+
+.details h3 {
+    font-size: 15px;
+    margin-top: 17px;
+}
+
+.details ul {
+    font-size: 13px;
+    padding-left: 16px;
+    line-height: 17px;
+}
+
+.footer {
+    background-color: black;
+    color: whitesmoke;
+    margin: 0%;
+    font-size: 17px;
+    padding: 13px;
+    width: -webkit-fill-available;
+    margin: auto;
+    border: none;
+}
+
+.positioned {
+    width: fit-content;
+    background-color: red;
+    color: whitesmoke;
+    padding: 2px 8px;
+    position: absolute;
+    top: -12px;
+    left: -26px;
+}
+
+.positioned p {
+    margin: 0%;
+    font-size: small;
+}

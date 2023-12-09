@@ -1,0 +1,106 @@
+.maindiv {
+    background-color: whitesmoke;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+}
+
+.header h5 {
+    color:#005180;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.header a {
+    text-decoration: none;
+    color: deeppink;
+    font-family: sans-serif;
+    font-size: 9px;
+    padding-right: 11px;
+}
+
+.firstdiv {
+    background-color: crimson;
+    height: 140px;
+    line-height: 7px;
+    font-size: small;
+}
+
+.blueimg {
+    width: 45px;
+    margin-left: 50% ;
+    margin-top: 22px;
+}
+
+.firstdiv h2 {
+font-family: sans-serif;
+text-align: center;
+}
+
+.firstdiv h3 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.circle {
+    
+}
+
+.firstdiv h2 {
+    color: whitesmoke;
+}
+
+.firstdiv h3 {
+color: whitesmoke
+}
+
+.container {
+    width: 70%;
+    display: flex;
+    margin: auto;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+}
+
+.card {
+    background-color:#ababab;
+    width: 220px;
+    height: 245px;    
+    color: #005180;
+    padding: 8px;
+}
+
+.card h5 {
+    margin-top: 15px;
+}
+
+.card p {
+    font-size: 10px;
+}
+
+.inside {
+    background-color: #005180;
+    height: 96px;
+    margin: auto;
+}
+
+.card button {
+    width: 100%;
+    background-color: crimson;
+    color: whitesmoke;
+    font-size: 10px;
+    border: none;
+    padding: 3px;;
+}
+
+.copyRT {
+    color: #005180;
+    background-color: #ababab;
+    text-align: center;
+    padding: 11px;
+}

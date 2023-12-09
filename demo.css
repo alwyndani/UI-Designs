@@ -1,0 +1,106 @@
+.maindiv {
+    width: 45%;
+    margin: 0 auto;
+}
+
+.firstsecond {
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    width: 31rem;
+}
+
+.firstdiv {
+    margin-bottom: -23px;
+    display: flex;
+}
+
+.firstdiv p {
+    margin-left: 28px;
+}
+
+.firstdiv h2 {
+    color: darkturquoise;
+    font-style: italic;
+    margin-top: 16px;
+    display: flex;
+    padding-left: 18px;
+}
+
+.secdiv {
+    padding-bottom: 14px;
+    padding-top: 12px;
+}
+
+.secdiv a {
+    color: darkturquoise;
+    text-decoration: none;
+}
+
+.secdiv b {
+    display: flex;
+    width: 340px;
+    justify-content: space-evenly;
+}
+
+.thirddiv h2 {
+    color: darkturquoise;
+}
+
+.positioned {
+    width: fit-content;
+    padding: 6px;
+    border-radius: 4px;
+    background-color: yellow;
+    position: absolute;
+    right: 36%;
+    top: 105px;
+}
+
+.positioned p {
+    margin: 0%;
+}
+
+.fourthdiv h2 {
+    color: darkturquoise;
+}
+
+.fifthdiv h2 {
+    color: darkturquoise;
+}
+
+.fifthdiv ul::first-line {
+    font-weight: bold;
+}
+
+.sixthdiv {
+    width: 78%;
+    background-color: whitesmoke;
+    border-top: 4px solid darkturquoise;
+    border-bottom: 4px solid darkturquoise;
+    margin-top: 40px;
+}
+
+.sixthdiv h4 {
+    margin: auto;
+    width: fit-content;
+    margin-top: 40px;
+}
+
+.sixthdiv a {
+    color: darkturquoise;
+    text-decoration: none;
+}
+
+.likebox {
+    width: max-content;
+    background-color: whitesmoke;
+    padding: 14px;
+    position: absolute;
+    right: 42px;
+    bottom: -63rem;
+}
+
+.likebox p {
+    margin: 0%;
+}
